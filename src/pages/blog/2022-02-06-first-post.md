@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: First Post
 date: 2022-02-06T15:04:10.000Z
-featuredpost: false
+featuredpost: true
 featuredimage: /img/flavor_wheel.jpg
 description: nothing
 tags:
